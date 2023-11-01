@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(188, 199, 229);
+    font-family: 'Helvetica Neue', sans-serif;
+    
+
+}
+img.yuvarlak{
+    border-radius: 10%;
+}
+div.malzemeler{
+    position: absolute;
+    left: 500px;
+    top: 120px;
+    color: chocolate;
+    
+    
+    
+    
+}
+div.hazirlanis{
+    position: absolute;
+    left: 900px;
+    top: 120px;
+    color: chocolate;
+}
